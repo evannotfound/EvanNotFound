@@ -21,6 +21,6 @@ For any questions / inquiries, please [contact me](https://evannotfound.com/cont
 
 Some stats:
 
-<img width="100%" alt="Evan's GitHub statistics" src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&layout=portfolio&yo=gurt&version=v6" />
+<img width="100%" alt="Evan's GitHub statistics" src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&layout=portfolio&yo=gurt&version=v7" />
 
 P.S. 我的中文博客在 [ohevan.com](https://ohevan.com)
