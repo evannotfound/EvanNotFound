@@ -4,11 +4,11 @@
   </a>
 </p>
 
-founder, ui/ux, front-end / full-stack developer. i design, build and ship software with ❤️.
+Founder, UI/UX, front-end / full-stack developer. I design, build and ship software with ❤️.
 
-check out stuff i've made on [evannotfound.com](https://evannotfound.com).
+Check out stuff I've made on [evannotfound.com](https://evannotfound.com).
 
-tools I use to ship:
+Tools that I like to use:
 
 - next.js, fastapi, fastmcp
 - better-auth
@@ -16,12 +16,11 @@ tools I use to ship:
 - opencode, augment code, zed
 - langchain, langgraph
 
-for work inquiries, please [contact me](https://evannotfound.com/contact).
-
-中文博客在 [ohevan.com](https://ohevan.com)
+For any questions / inquiries, please [contact me](https://evannotfound.com/contact).
 
 
-some tasty stats 🍕
+Some stats:
 
 <img width="100%" alt="Evan's GitHub statistics" src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&layout=portfolio" />
 
+P.S. 我的中文博客在 [ohevan.com](https://ohevan.com)
