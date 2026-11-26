@@ -23,5 +23,5 @@ for work inquiries, please [contact me](https://evannotfound.com/contact).
 
 some tasty stats 🍕
 
-<img src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=transparent" alt="Evan's GitHub Stats"/>
-</div>
+<img width="100%" alt="Evan's GitHub statistics" src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&layout=portfolio" />
+
